@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<file>
+    <scriptpath>http://localhost/yourphpfile.php?querystring=1</scriptpath>
+	<interval>5000</interval>
+</file>
+</root>
